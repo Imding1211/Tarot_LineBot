@@ -16,8 +16,8 @@ import card
 
 app = Flask(__name__)
 
-token = 'cxPJsNliFE3msdzd3KzlSiCR4ZaM0LGYUlF4OjzTe9OlaAJc8MpWfcrRl7/VYMl66RANQGMzYKgG3RinYw0b7+/VK/q8C2fM2+5o12w2mIabMvgV0y33UiycweijienFcg+L4CAP59q1z8LjSQfZPAdB04t89/1O/w1cDnyilFU='
-secret = '67cf34073a27de5d3e53d18cd66aa372'
+token = ''
+secret = ''
 line_bot_api = LineBotApi(token)
 handler = WebhookHandler(secret)
 
