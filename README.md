@@ -11,7 +11,7 @@
 
 ## About The Project
 
-This project demonstrates a Retrieval-Augmented Generation (RAG) system utilizing the latest Language Model (LLM) technologies. By leveraging PDF documents as the data source, ChromaDB as the database for efficient retrieval, and Llama3 for language modeling, this project aims to provide high-quality, contextually relevant responses. The embedding model used is MXBAI-embed-large, deployed by Ollama, ensuring robust vector representations of the data.
+This project is a Line Bot designed for tarot card drawing. Users can interact with the bot to receive tarot card draws directly through the Line messaging app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,6 +78,11 @@ To get a local copy up and running, follow these simple steps.
     ```
 
     Find "public_url," which is your API URL.
+
+11. Paste your URL into your Line Developer Webhook URL.
+    ```sh
+    Your URL/callback
+    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
