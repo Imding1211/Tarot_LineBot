@@ -6,6 +6,7 @@
   <li><a href="#about-the-project">About The Project</a></li>
   <li><a href="#built-with">Built With</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#usage">Usage</a></li>
   <li><a href="#contact">Contact</a></li>
 </ol>
 
@@ -83,6 +84,21 @@ To get a local copy up and running, follow these simple steps.
     ```sh
     Your URL/callback
     ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Usage
+
+* You can enter your question first, then press Shift+Enter to start a new line, and then input the tarot spread you want to use.
+
+* The following tarot spreads are currently available:
+
+1. Enter 1 or "抽一張牌": Draw one card.
+2. Enter 2 or "時間之流": Draw time flow.
+3. Enter 3 or "抽聖三角": Draw holy triangle.
+4. Enter 4 or "抽六芒星": Draw hexagram.
+5. Enter 5 or "抽無牌陣": Draw no spread.
+6. Enter 6 or "抽關係排": Draw relationship spread.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
