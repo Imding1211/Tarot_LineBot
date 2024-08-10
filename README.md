@@ -82,7 +82,7 @@ To get a local copy up and running, follow these simple steps.
 
 11. Paste your URL into your Line Developer Webhook URL.
     ```sh
-    Your URL/callback
+    [Your URL]/callback
     ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
