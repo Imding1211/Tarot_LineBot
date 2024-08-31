@@ -75,6 +75,8 @@ To get a local copy up and running, follow these simple steps.
 10. Get your API URL.
     ```sh
     wget http://127.0.0.1:4040/api/tunnels
+    ```
+    ```sh
     cat tunnels
     ```
 
